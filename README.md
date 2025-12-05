@@ -1,12 +1,12 @@
 # Detection-of-Identity-Theft-in-Critical-Sectors-A-Comprehensive-Review
-This paper was published in 2025 at the Springer CSCI Conference in Las Vegas //
+This paper was published on 12th Annual Conf. on Computational Science & Computational Intelligence (CSCI'25) //
 
 
 Google identity theft research funding 2025 WITH WV GOVERNMENT PROJECT 
 
 Purpose: The paper reviews existing methods for detecting identity theft across sectors like finance, government, and healthcare.
 
-Methods: Analyzed over 50 peer-reviewed studies, comparing traditional machine learning methods, deep learning, and Graph Neural Networks (GNNs). Evaluated their performance in accuracy, sensitivity, precision, speed, and cost.
+Methods: Analyzed peer-reviewed studies, comparing traditional machine learning methods, deep learning, and Graph Neural Networks (GNNs). Evaluated their performance in accuracy, sensitivity, precision and other matrix.
 
 Key Findings:
 
