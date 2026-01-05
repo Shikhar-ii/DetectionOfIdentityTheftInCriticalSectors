@@ -2,7 +2,7 @@
 This paper was published on 12th Annual Conf. on Computational Science & Computational Intelligence (CSCI'25) // Springer Nature Paper
 
 
-Google identity theft research funding 2025 WITH WV GOVERNMENT PROJECT 
+
 
 Purpose: The paper reviews existing methods for detecting identity theft across sectors like finance, government, and healthcare.
 
