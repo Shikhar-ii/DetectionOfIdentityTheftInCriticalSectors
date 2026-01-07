@@ -4,7 +4,7 @@ Publication: 12th Annual Conference on Computational Science & Computational Int
 Location & Date: Las Vegas, USA | December 3–5, 2025
 Publisher: Springer Nature
 
-Overview
+Overview.
 
 This paper reviews identity theft detection techniques used in critical sectors such as finance, government, and healthcare. It analyzes how different machine learning approaches perform in detecting fraudulent and malicious identity-related activities.
 
