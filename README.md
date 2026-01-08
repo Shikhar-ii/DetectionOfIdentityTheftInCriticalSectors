@@ -8,15 +8,7 @@ Overview.
 
 This paper reviews identity theft detection techniques used in critical sectors such as finance, government, and healthcare. It analyzes how different machine learning approaches perform in detecting fraudulent and malicious identity-related activities.
 
-Methods
 
-Peer-reviewed studies were analyzed and compared across:
-
-Traditional machine learning models (SVM, Random Forest)
-
-Deep learning methods
-
-Graph Neural Networks (GNNs)
 
 Models were evaluated using accuracy, precision, sensitivity, and related performance metrics.
 
